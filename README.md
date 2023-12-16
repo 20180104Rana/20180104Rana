@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rana Mohamed</h1>
-<h3 align="center">Artificial Intelligence and Data Science</h3>
+<h3 align="center">Machine Learning and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20180104rana&label=Profile%20views&color=0e75b6&style=flat" alt="20180104rana" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=20180104rana" alt="20180104rana" /></a> </p>
