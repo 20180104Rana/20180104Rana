@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rana Mohamed Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Rana Mohamed</h1>
 <h3 align="center">Artificial Intelligence and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20180104rana&label=Profile%20views&color=0e75b6&style=flat" alt="20180104rana" /> </p>
